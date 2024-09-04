@@ -1,0 +1,4 @@
+# Predicting-and-Analysing-the-Impact-of-Coupons-on-Consumer-Purchasing-Behaviour-Using-Causal-ML
+This is a repository for estimating and analysing the causal effects of coupons by Causal Extreme Gradient Boosting (C-XGBoost) models.
+
+This paper presents a new application of causal machine learning, namely Causal Extreme Gradient Boosting (C-XGBoost), for predicting the average treatment effect (ATE) of coupons on consumer purchasing behaviour, based on AmExpert 2019 - Machine Learning Hackathon data. The accuracy of the model is evaluated using Error ATE and PEHE. In addition, coupon effect heterogeneity is analysed. First, differences in estimated ATE of coupons across product categories are assessed. Subsequently, differences between different groups of consumers across product categories are investigated. To enhance robustness, statistical tests are conducted using a bootstrap method .
